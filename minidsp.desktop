@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=MiniDSP
+Exec=/home/seydanator/Documents/Projects/minidsp-UI/dialog.py
+Terminal=false
+Type=Application
+StartupNotify=false
+
